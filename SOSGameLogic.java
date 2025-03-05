@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class SOSGameLogic {
 	
-	private char[][] board;    // 2D array where each cell contains a token
+    private char[][] board;    // 2D array where each cell contains a token
     private int boardSize;     // size of game board
     private boolean isSimpleGame;   // references simple game mode
     private boolean playerTurn;  // references which player's turn
